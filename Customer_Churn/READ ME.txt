@@ -1,0 +1,7 @@
+READ ME
+
+Steps to implement code in appendix of the project report
+
+1. Set working directory to the location in which the data file is saved using setwd() command
+
+2. Run the code given in the R code file or appendix
